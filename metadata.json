@@ -1,0 +1,6 @@
+{
+  "name": "IELTS & TOEFL English Exam Preparation",
+  "description": "Comprehensive English exam preparation platform covering Listening, Speaking, Reading, and Writing for IELTS and TOEFL with authentic practice questions, interactive audio, AI feedback, and scoring rubrics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
